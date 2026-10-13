@@ -6,11 +6,9 @@ A machine learning project that compares Random Forest and XGBoost regressors on
 
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
+- [Requirements](#requirements)
 - [Usage](#usage)
 - [Methodology](#methodology)
-- [Results](#results)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
 - [License](#license)
