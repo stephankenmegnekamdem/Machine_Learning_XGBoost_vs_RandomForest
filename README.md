@@ -101,7 +101,18 @@ jupyter notebook notebooks/comparison.ipynb
 - Use SHAP values to explain individual predictions
 - Test on other housing datasets to check generalization
 ## Conclusion
-  
+Random Forest is the Winner
+R² Score 0.8061
+RMSE $50,410
+Higher accuracy in price prediction
+Lower prediction error vs XGBoost
+Best performing model for California house price prediction
+
+Key Findings
+- Income is the #1 driver of house prices
+- Location (coastal proximity) is critical
+- House age and rooms also influence prices
+- Random Forest has a strong baseline model with easier implementation and less tuning
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
